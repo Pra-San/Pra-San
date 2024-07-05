@@ -21,7 +21,7 @@
 [bruh](https:\\www.linkedin.com/in/pranav-sanand-puligandla/)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) pranav-sanand-puligandla](https:\\www.linkedin.com/in/pranav-sanand-puligandla) -->
   
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pra-San&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pra-San&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html)
 
 
 
